@@ -753,7 +753,7 @@ msgstr "Maišyti grojaraštį paleidimo metu"
 
 msgctxt "#229"
 msgid "HDD spindown time"
-msgstr "Sustabdyti HDD po [COLOR=blue]min.[/COLOR]"
+msgstr "Sustabdyti HDD po min."
 
 msgctxt "#230"
 msgid "Video filters"
@@ -885,7 +885,7 @@ msgstr "Skriptų darbo LOG"
 
 msgctxt "#263"
 msgid "Allow control of XBMC via HTTP"
-msgstr "Įjungti interneto serverį"
+msgstr "Leisti kontrolę XBMC per HTTP"
 
 msgctxt "#264"
 msgid "Record"
@@ -921,11 +921,11 @@ msgstr "Top 100"
 
 msgctxt "#272"
 msgid "Top-Left overscan compensation"
-msgstr "Ekrano nustatymai [COLOR=red]viršutinis kairysis kampas[/COLOR]"
+msgstr "Ekrano nustatymai viršutinis kairysis kampas"
 
 msgctxt "#273"
 msgid "Bottom-Right overscan compensation"
-msgstr "Ekrano nustatymai [COLOR=red]apatinis dešinysis kampas[/COLOR]"
+msgstr "Ekrano nustatymai apatinis dešinysis kampas"
 
 msgctxt "#274"
 msgid "Subtitle positioning"
@@ -1025,19 +1025,19 @@ msgstr "Užsklanda"
 
 msgctxt "#299"
 msgid "- AAC capable receiver"
-msgstr "- [COLOR=red]LPCM[/COLOR] garso formatas"
+msgstr "- [COLOR=red]AAC[/COLOR] galinis imtuvas"
 
 msgctxt "#300"
 msgid "- MP1 capable receiver"
-msgstr "- MP1 garso formatas"
+msgstr "- MP1 galinis imtuvas"
 
 msgctxt "#301"
 msgid "- MP2 capable receiver"
-msgstr "- MP2 garso formatas"
+msgstr "- MP2 galinis imtuvas"
 
 msgctxt "#302"
 msgid "- MP3 capable receiver"
-msgstr "- MP3 garso formatas"
+msgstr "- MP3 galinis imtuvas"
 
 msgctxt "#303"
 msgid "Delay"
@@ -1064,8 +1064,8 @@ msgid "User Interface language"
 msgstr "Vartotojo pasirinkta kalba"
 
 msgctxt "#312"
-msgid "[COLOR=blue]0=auto[/COLOR]"
-msgstr "[COLOR=blue]0=auto[/COLOR]"
+msgid "0=auto"
+msgstr "0=auto"
 
 msgctxt "#313"
 msgid "Cleaning database"
@@ -1236,7 +1236,7 @@ msgstr "Juodas ekranas"
 
 msgctxt "#354"
 msgid "Matrix trails"
-msgstr "Žymės [COLOR=red]Matrica[/COLOR]"
+msgstr "Žymės Matrica"
 
 msgctxt "#355"
 msgid "Screensaver time"
@@ -1276,7 +1276,7 @@ msgstr "Rušiuoti pagal: Failą"
 
 msgctxt "#364"
 msgid "- Dolby Digital (AC3) capable receiver"
-msgstr "- [COLOR=blue]Dolby Digital® (AC3)[/COLOR]"
+msgstr "- [COLOR=red]Dolby Digital® (AC3)[/COLOR] galinis imtuvas"
 
 msgctxt "#365"
 msgid "Sort by: Name"
@@ -1520,11 +1520,11 @@ msgstr "Diskas"
 
 msgctxt "#428"
 msgid "Insert correct CD/DVD"
-msgstr "Idėkite gerą CD/DVD diską"
+msgstr "Idėkite gerą CD/DVD/HD/BD diską"
 
 msgctxt "#429"
 msgid "Please insert the following disc:"
-msgstr "Idėkite sekantį CD/DVD diską"
+msgstr "Idėkite sekantį CD/DVD/HD/BD diską"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
@@ -1668,11 +1668,11 @@ msgstr "Tipas"
 
 msgctxt "#468"
 msgid "Move the bar to change the OSD position"
-msgstr "Judinkit juostelę pozicijai pakeisti [COLOR=blue]OSD[/COLOR]"
+msgstr "Judinkit juostelę pozicijai pakeisti [COLOR=red]OSD[/COLOR]"
 
 msgctxt "#469"
 msgid "OSD position"
-msgstr "Ekrano pozicija [COLOR=blue]OSD[/COLOR]"
+msgstr "Ekrano pozicija [COLOR=red]OSD[/COLOR]"
 
 msgctxt "#470"
 msgid "Credits"
@@ -1700,7 +1700,7 @@ msgstr "Nepavyko įkelti į grojaraštį"
 
 msgctxt "#478"
 msgid "OSD"
-msgstr "Erano meniu [COLOR=blue]OSD[/COLOR]"
+msgstr "Erano meniu [COLOR=red]OSD[/COLOR]"
 
 msgctxt "#479"
 msgid "Skin & language"
@@ -1747,8 +1747,8 @@ msgid "Resize VobSubs"
 msgstr "Keisti dydį VobSubs"
 
 msgctxt "#493"
-msgid "Advanced options [COLOR=blue]Experts Only![/COLOR]"
-msgstr "Papildomi duomenys [COLOR=blue]Tik ekspertams![/COLOR]"
+msgid "Advanced options Experts Only!"
+msgstr "Papildomi duomenys [COLOR=red]Tik ekspertams![/COLOR]"
 
 msgctxt "#494"
 msgid "Overall audio headroom"
@@ -2020,11 +2020,11 @@ msgstr "Albumo atlikėjas"
 
 msgctxt "#567"
 msgid "Play count"
-msgstr "Paleidimo kartus[COLOR=blue]ų[/COLOR]"
+msgstr "Paleidimo kartus[COLOR=blue](-ų)[/COLOR]"
 
 msgctxt "#568"
 msgid "Last played"
-msgstr "Paskutiniai groti[COLOR=blue]as[/COLOR]"
+msgstr "Paskutiniai groti[COLOR=blue](-as)[/COLOR]"
 
 msgctxt "#569"
 msgid "Comment"
@@ -2056,7 +2056,7 @@ msgstr "Procese"
 
 msgctxt "#576"
 msgid "Times played"
-msgstr "Grojo kartus[COLOR=blue]ų[/COLOR]"
+msgstr "Grojo kartus[COLOR=blue](-ų)[/COLOR]"
 
 msgctxt "#580"
 msgid "Sort direction"
@@ -2184,7 +2184,7 @@ msgstr "Sampling dažnis"
 
 msgctxt "#620"
 msgid "Audio CDs"
-msgstr "CD nuskaitymas"
+msgstr "Audio CD"
 
 msgctxt "#621"
 msgid "Encoder"
@@ -2379,7 +2379,7 @@ msgid "Use an HTTP proxy server to access the internet"
 msgstr "Naudoti [COLOR=red]HTTP-proxy[/COLOR] serverį"
 
 msgctxt "#711"
-msgid "Internet Protocol [COLOR=red]IP[/COLOR]"
+msgid "Internet Protocol IP"
 msgstr "Interneto protokolas [COLOR=red]IP[/COLOR]"
 
 msgctxt "#712"
@@ -2395,11 +2395,11 @@ msgid "- Assignment"
 msgstr "- Paskyrimas"
 
 msgctxt "#716"
-msgid "Automatic [COLOR=red]DHCP[/COLOR]"
+msgid "Automatic DHCP"
 msgstr "Automatiškai [COLOR=red]DHCP[/COLOR]"
 
 msgctxt "#717"
-msgid "Manual [COLOR=red]Static[/COLOR]"
+msgid "Manual Static"
 msgstr "Manualas [COLOR=red]Static[/COLOR]"
 
 msgctxt "#719"
@@ -2599,7 +2599,7 @@ msgid "Network interface"
 msgstr "Tinko sąsaja"
 
 msgctxt "#776"
-msgid "- Wireless network name [COLOR=red]ESSID[/COLOR]"
+msgid "- Wireless network name ESSID"
 msgstr "- Bevielio tinklo pavadinimas [COLOR=red]ESSID[/COLOR]"
 
 msgctxt "#777"
@@ -2651,7 +2651,7 @@ msgid "Network interface disabled successfully."
 msgstr "Tinklo sąsajos sėkmingai atjungtos"
 
 msgctxt "#789"
-msgid "Wireless network name [COLOR=red]ESSID[/COLOR]"
+msgid "Wireless network name ESSID"
 msgstr "Bevielio tinklo pavadinimas [COLOR=red]ESSID[/COLOR]"
 
 msgctxt "#790"
@@ -2660,7 +2660,7 @@ msgstr "Nuotolinis valdymas"
 
 msgctxt "#791"
 msgid "Allow programs on this system to control XBMC"
-msgstr "Įjungti serverio įvikius"
+msgstr "Leidžiantis programoms valdyti XBMC sistemą"
 
 msgctxt "#792"
 msgid "Port"
@@ -2672,15 +2672,15 @@ msgstr "Portų diapazonas"
 
 msgctxt "#794"
 msgid "Allow programs on other systems to control XBMC"
-msgstr "Leisti prisijungti prie kitų kompiuterių"
+msgstr "Leisti kitomis programoms valdyti XBMC sistemą"
 
 msgctxt "#795"
-msgid "Initial repeat delay [COLOR=blue]ms[/COLOR]"
-msgstr "Pirminio porto užlaikymas [COLOR=blue]ms[/COLOR]"
+msgid "Initial repeat delay (ms)"
+msgstr "Pirminio porto užlaikymas (ms)"
 
 msgctxt "#796"
-msgid "Continuous repeat delay [COLOR=blue]ms[/COLOR]"
-msgstr "Sekančių portų užlaikymas [COLOR=blue]ms[/COLOR]"
+msgid "Continuous repeat delay (ms)"
+msgstr "Sekančių portų užlaikymas (ms)"
 
 msgctxt "#797"
 msgid "Maximum number of clients"
@@ -2848,7 +2848,7 @@ msgstr "Submeniu"
 
 msgctxt "#1035"
 msgid "Enable submenu buttons"
-msgstr "Įjungti punktus submeniu"
+msgstr "Įjungti submeniu punktus"
 
 msgctxt "#1036"
 msgid "Favourites"
@@ -3056,7 +3056,7 @@ msgstr "Siųsti vartotojo vardą ir slaptažodį FTP"
 
 msgctxt "#1256"
 msgid "Ping interval"
-msgstr "Komandos intervalas [COLOR=blue]ping[/COLOR]"
+msgstr "Komandos intervalas [COLOR=red]Ping[/COLOR]"
 
 msgctxt "#1257"
 msgid "Would you like to connect to the auto-detected system?"
@@ -3136,7 +3136,7 @@ msgstr "į"
 
 msgctxt "#1406"
 msgid "the"
-msgstr "šis[COLOR=blue]tuo,tas[/COLOR]"
+msgstr "šis[COLOR=blue](tuo,tas)[/COLOR]"
 
 msgctxt "#1407"
 msgid "Vicinity"
@@ -3156,7 +3156,7 @@ msgstr "Ramu"
 
 msgctxt "#1411"
 msgid "with"
-msgstr "ir[COLOR=blue]su,pas,nuo,prie,iš[/COLOR]"
+msgstr "ir[COLOR=blue](su,pas,nuo,prie,iš)[/COLOR]"
 
 msgctxt "#1412"
 msgid "windy"
@@ -3440,7 +3440,7 @@ msgstr "Muzika/Informacija"
 
 msgctxt "#12002"
 msgid "Dialog OK"
-msgstr "Dialogas [COLOR=blue]OK[/COLOR]"
+msgstr "Dialogas OK"
 
 msgctxt "#12003"
 msgid "Videos/Info"
@@ -3448,7 +3448,7 @@ msgstr "Video/Informacija"
 
 msgctxt "#12004"
 msgid "Scripts/Info"
-msgstr "Skripto[COLOR=blue]ų[/COLOR]/Informacija"
+msgstr "Skripto[COLOR=blue](-ų)[/COLOR]/Informacija"
 
 msgctxt "#12005"
 msgid "Fullscreen video"
@@ -3552,7 +3552,7 @@ msgstr "Įveskite atblokavimo kodą"
 
 msgctxt "#12329"
 msgid "or press C to cancel"
-msgstr "arba pasirinkite [COLOR=blue]C[/COLOR] atšaukimui"
+msgstr "arba pasirinkite C atšaukimui"
 
 msgctxt "#12330"
 msgid "Enter gamepad button combo and"
@@ -3560,7 +3560,7 @@ msgstr "Paspauskite reikalingus mygtukus žaidimų svirtyje,"
 
 msgctxt "#12331"
 msgid "press OK, or Back to cancel"
-msgstr "tada [COLOR=blue]OK[/COLOR], arba [COLOR=blue]Back[/COLOR] atšaukimui"
+msgstr "tada "OK", arba "Back" atšaukimui"
 
 msgctxt "#12332"
 msgid "Set lock"
@@ -3648,7 +3648,7 @@ msgstr "Master lock apsauga"
 
 msgctxt "#12362"
 msgid "Shutdown system if Master Lock retries exceeded"
-msgstr "Išjungiama sistema, jei [COLOR=blue]Master Lock[/COLOR] pakartojimų viršyta"
+msgstr "Išjungiama sistema, jei [COLOR=red]Master Lock[/COLOR] pakartojimų viršyta"
 
 msgctxt "#12367"
 msgid "Master code is not valid"
@@ -3796,7 +3796,7 @@ msgstr "Aktyvi kita sesija, gal per SSH?"
 
 msgctxt "#13021"
 msgid "Mounted removable harddrive"
-msgstr "Prijungtas nešiojamas HDD"
+msgstr "Prijungtas nešiojamas HDD/USB"
 
 msgctxt "#13022"
 msgid "Unsafe device removal"
@@ -3823,8 +3823,8 @@ msgid "Flicker filter"
 msgstr "Mirgėjimo filtras"
 
 msgctxt "#13101"
-msgid "Let driver choose [COLOR=blue]requires restart[/COLOR]"
-msgstr "Tvarkyklių pasirinkimas [COLOR=blue]būtinas perkrovimas[/COLOR]"
+msgid "Let driver choose requires restart"
+msgstr "Tvarkyklių pasirinkimas [COLOR=red]būtinas perkrovimas[/COLOR]"
 
 msgctxt "#13105"
 msgid "Vertical blank sync"
@@ -3999,8 +3999,8 @@ msgid "Alarm clock"
 msgstr "Priminimo laikmatis"
 
 msgctxt "#13209"
-msgid "Alarm clock interval [COLOR=blue]in minutes[/COLOR]"
-msgstr "Laikmačio priminimo intervalas [COLOR=blue]min.[/COLOR]"
+msgid "Alarm clock interval in minutes"
+msgstr "Laikmačio priminimo intervalas minutės"
 
 msgctxt "#13210"
 msgid "Started, alarm in %im"
@@ -4024,7 +4024,7 @@ msgstr "%2.0fs"
 
 msgctxt "#13249"
 msgid "Search for subtitles in RARs"
-msgstr "Ieškoti subtitrų [COLOR=blue]rar,zip,7zip[/COLOR]arhyvuose"
+msgstr "Ieškoti subtitrų [COLOR=red](rar,zip,7zip)[/COLOR]arhyvuose"
 
 msgctxt "#13250"
 msgid "Browse for subtitle..."
@@ -4216,7 +4216,7 @@ msgstr "Dešinys"
 
 msgctxt "#13323"
 msgid "Enable karaoke support"
-msgstr "Įjungti karaokės palaikymą [COLOR=blue]CD+G[/COLOR]"
+msgstr "Įjungti karaokės palaikymą [COLOR=red]CD+G[/COLOR]"
 
 msgctxt "#13324"
 msgid "Background transparency"
@@ -4304,7 +4304,7 @@ msgstr "Elemento eilė"
 
 msgctxt "#13348"
 msgid "Search IMDb..."
-msgstr "Rasti IMDb[COLOR=blue]filmų top[/COLOR]..."
+msgstr "Rasti IMDb filmų top..."
 
 msgctxt "#13349"
 msgid "Scan for new content"
@@ -4491,8 +4491,8 @@ msgid "%s presets"
 msgstr "%s išankstiniai nustatymai"
 
 msgctxt "#13408"
-msgid "[COLOR=blue]IMDb user rating[/COLOR]"
-msgstr "[COLOR=blue]Vartotojų reitingas IMDb[/COLOR]"
+msgid "IMDb user rating"
+msgstr "Vartotojų reitingas IMDb"
 
 msgctxt "#13409"
 msgid "Top 250"
@@ -4527,11 +4527,11 @@ msgid "Auto detect"
 msgstr "Auto nustatymas"
 
 msgctxt "#13417"
-msgid "Basic shaders [COLOR=red]ARB[/COLOR]"
+msgid "Basic shaders ARB"
 msgstr "Pagrindiniai pikseliniai šešėliai [COLOR=red]ARB[/COLOR]"
 
 msgctxt "#13418"
-msgid "Advanced shaders [COLOR=red]GLSL[/COLOR]"
+msgid "Advanced shaders GLSL"
 msgstr "Papildomi pikseliniai šešėliai [COLOR=red]GLSL[/COLOR]"
 
 msgctxt "#13419"
@@ -4559,27 +4559,27 @@ msgid "Use pixel buffer objects"
 msgstr "Naudoti pikselių buferio objektus"
 
 msgctxt "#13425"
-msgid "Allow hardware acceleration [COLOR=red]VDPAU[/COLOR]"
+msgid "Allow hardware acceleration VDPAU"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]VDPAU[/COLOR]"
 
 msgctxt "#13426"
-msgid "Allow hardware acceleration [COLOR=red]VAAPI[/COLOR]"
+msgid "Allow hardware acceleration VAAPI"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]VAAPI[/COLOR]"
 
 msgctxt "#13427"
-msgid "Allow hardware acceleration [COLOR=red](DXVA2)[/COLOR]"
+msgid "Allow hardware acceleration (DXVA2)"
 msgstr "Leisti aparatūros spartinimą [COLOR=red](DXVA2)[/COLOR]"
 
 msgctxt "#13428"
-msgid "Allow hardware acceleration [COLOR=red]CrystalHD[/COLOR]"
+msgid "Allow hardware acceleration CrystalHD"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]CrystalHD[/COLOR]"
 
 msgctxt "#13429"
-msgid "Allow hardware acceleration [COLOR=red]VDADecoder[/COLOR]"
+msgid "Allow hardware acceleration VDADecoder"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]VDADecoder[/COLOR]"
 
 msgctxt "#13430"
-msgid "Allow hardware acceleration [COLOR=red]OpenMax[/COLOR]"
+msgid "Allow hardware acceleration OpenMax"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]OpenMax[/COLOR]"
 
 msgctxt "#13431"
@@ -4587,7 +4587,7 @@ msgid "Pixel Shaders"
 msgstr "Pikseliniai šešėliai"
 
 msgctxt "#13432"
-msgid "Allow hardware acceleration [COLOR=red]VideoToolbox[/COLOR]"
+msgid "Allow hardware acceleration VideoToolbox"
 msgstr "Leisti aparatūros spartinimą [COLOR=red]VideoToolbox[/COLOR]"
 
 msgctxt "#13500"
@@ -4599,12 +4599,12 @@ msgid "Audio clock"
 msgstr "Audio laikrodis"
 
 msgctxt "#13502"
-msgid "Video clock [COLOR=red]Drop/Dupe audio[/COLOR]"
-msgstr "Video laikrodis [COLOR=red]Drop/Dupe audio[/COLOR]"
+msgid "Video clock Drop/Dupe audio"
+msgstr "Video laikrodis [COLOR=red]Drop/Dupe[/COLOR] audio"
 
 msgctxt "#13503"
-msgid "Video clock [COLOR=red]Resample audio[/COLOR]"
-msgstr "Video laikrodis [COLOR=red]Resample audio[/COLOR]"
+msgid "Video clock Resample audio"
+msgstr "Video laikrodis [COLOR=red]Resample[/COLOR] audio"
 
 msgctxt "#13504"
 msgid "Maximum resample amount (%)"
@@ -4615,8 +4615,8 @@ msgid "Resample quality"
 msgstr "Konvertavimo kokybė"
 
 msgctxt "#13506"
-msgid "Low[COLOR=blue]fast[/COLOR]"
-msgstr "Mažas[COLOR=blue]greitai[/COLOR]"
+msgid "Low fast"
+msgstr "Mažas greitai"
 
 msgctxt "#13507"
 msgid "Medium"
@@ -4627,7 +4627,7 @@ msgid "High"
 msgstr "Aukštas"
 
 msgctxt "#13509"
-msgid "Really high[COLOR=blue]slow![/COLOR]"
+msgid "Really high slow!"
 msgstr "Labai aukštas"
 
 msgctxt "#13510"
@@ -4675,7 +4675,7 @@ msgid "Universal Remote"
 msgstr "Universalus pultelis"
 
 msgctxt "#13613"
-msgid "Multi Remote [COLOR=red]Harmony[/COLOR]"
+msgid "Multi Remote Harmony"
 msgstr "Multi pultelis [COLOR=red]Harmony[/COLOR]"
 
 msgctxt "#13620"
@@ -4780,7 +4780,7 @@ msgstr "Įveskite artimiausią miestą"
 
 msgctxt "#14025"
 msgid "Video/Audio/DVD cache - Harddisk"
-msgstr "Audio/Video/DVD talpykla- HDD"
+msgstr "Audio/Video/DVD talpykla- HDD diskas"
 
 msgctxt "#14026"
 msgid "Video cache - DVD-ROM"
@@ -4924,11 +4924,11 @@ msgstr "Nustatyti laiką"
 
 msgctxt "#14066"
 msgid "Enter the time in 24 hour HH:MM format"
-msgstr "Įveskite laiką 24 valandų HH:MM formatu"
+msgstr "Įveskite laiką [COLOR=red]24[/COLOR] valandų [COLOR=red]HH:MM[/COLOR] formatu"
 
 msgctxt "#14067"
 msgid "Enter the date in DD/MM/YYYY format"
-msgstr "Įveskite datos DD/MM/YYYY formatą"
+msgstr "Įveskite datos [COLOR=red]DD/MM/YYYY[/COLOR] formatą"
 
 msgctxt "#14068"
 msgid "Enter the IP address"
@@ -5000,7 +5000,7 @@ msgstr "DVD"
 
 msgctxt "#14088"
 msgid "Play DVDs automatically"
-msgstr "Atkūrti [COLOR=red]DVD[/COLOR] automatiškai"
+msgstr "Atkūrti DVD automatiškai"
 
 msgctxt "#14089"
 msgid "Font to use for text subtitles"
@@ -5132,7 +5132,7 @@ msgstr "Prašome atnaujinti XBMC"
 
 msgctxt "#15206"
 msgid "Bad authorization: Check username and password"
-msgstr "Neteisingas prisijungimas: Patikrinkite vartotojo slapyvardį ir slaptažodį"
+msgstr "Neteisingas prisijungimas: Patikrinkite vartotojo vardą ir slaptažodį"
 
 msgctxt "#15207"
 msgid "Connected"
@@ -5164,7 +5164,7 @@ msgstr "Naudoti grotuvą..."
 
 msgctxt "#15214"
 msgid "Use smoothed A/V synchronization"
-msgstr "Naudoti A/V sinchronizavimą"
+msgstr "Naudoti [COLOR=red]A/V[/COLOR] sinchronizavimą"
 
 msgctxt "#15215"
 msgid "Hide file names in thumbs view"
@@ -5236,7 +5236,7 @@ msgstr "Top kūriniai pagal žymę %name%"
 
 msgctxt "#15260"
 msgid "Listen to tag %name% Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] takelius pagal žymę %name% Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] takelius pagal žymę %name% Last.fm"
 
 msgctxt "#15261"
 msgid "Similar artists as %name%"
@@ -5260,11 +5260,11 @@ msgstr "Didžiausi gerbėjai %name%"
 
 msgctxt "#15266"
 msgid "Listen to %name% fans Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] gerbėjų pasirinkimą %name% Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] gerbėjų pasirinkimą %name% Last.fm"
 
 msgctxt "#15267"
 msgid "Listen to %name% similar artists Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] panašių %name% atlikėjų Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] panašių %name% atlikėjų Last.fm"
 
 msgctxt "#15268"
 msgid "Top artists for user %name%"
@@ -5300,15 +5300,15 @@ msgstr "Savaitės takelių diagrama %name%"
 
 msgctxt "#15276"
 msgid "Listen to %name%'s neighbours Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] %name%'s iš žmonių Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] %name%'s iš žmonių Last.fm"
 
 msgctxt "#15277"
 msgid "Listen to %name%'s personal Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] %name%'s savo Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] %name%'s savo Last.fm"
 
 msgctxt "#15278"
 msgid "Listen to %name%'s mix Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] %name%'s milymiausi Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] %name%'s milymiausi Last.fm"
 
 msgctxt "#15279"
 msgid "Retrieving list from Last.fm..."
@@ -5332,7 +5332,7 @@ msgstr "Pastaruoju metu klausomos dainos %name%'"
 
 msgctxt "#15284"
 msgid "Listen to %name%'s recommendations Last.fm radio"
-msgstr "Klausyti[COLOR=blue]is[/COLOR] rekomenduojamų %name%' Last.fm"
+msgstr "Klausyti[COLOR=blue](-is)[/COLOR] rekomenduojamų %name%' Last.fm"
 
 msgctxt "#15285"
 msgid "Top tags for user %name%"
@@ -5483,8 +5483,8 @@ msgid "Bob"
 msgstr "Bob"
 
 msgctxt "#16022"
-msgid "Bob [COLOR=red]inverted[/COLOR]"
-msgstr "Bob [COLOR=red]inverted[/COLOR]"
+msgid "Bob inverted"
+msgstr "Bob inverted"
 
 msgctxt "#16024"
 msgid "Canceling..."
@@ -5535,8 +5535,8 @@ msgid "Party mode playlist"
 msgstr "Grojaraštis [COLOR=red]Party[/COLOR]"
 
 msgctxt "#16036"
-msgid "De-interlace [COLOR=red]Half[/COLOR]"
-msgstr "De-interlace [COLOR=red]Half[/COLOR]"
+msgid "De-interlace Half"
+msgstr "De-interlace Half"
 
 msgctxt "#16037"
 msgid "Deinterlace video"
@@ -5639,16 +5639,16 @@ msgid "Sinc8"
 msgstr "Sinc8"
 
 msgctxt "#16307"
-msgid "Bicubic [COLOR=blue]software[/COLOR]"
-msgstr "Bicubic [COLOR=blue]programoje[/COLOR]"
+msgid "Bicubic software"
+msgstr "Bicubic programoje"
 
 msgctxt "#16308"
-msgid "Lanczos [COLOR=blue]software[/COLOR]"
-msgstr "Lanczos [COLOR=blue]programoje[/COLOR]"
+msgid "Lanczos software"
+msgstr "Lanczos programoje"
 
 msgctxt "#16309"
-msgid "Sinc [COLOR=blue]software[/COLOR]"
-msgstr "Sinc [COLOR=blue]programoje[/COLOR]"
+msgid "Sinc software"
+msgstr "Sinc programoje"
 
 msgctxt "#16310"
 msgid "Temporal"
@@ -5659,11 +5659,11 @@ msgid "Temporal/Spatial"
 msgstr "Laikinas/Erdvinis"
 
 msgctxt "#16312"
-msgid "[COLOR=red]VDPAU[/COLOR]Noise Reduction"
+msgid "VDPAU Noise Reduction"
 msgstr "[COLOR=red]VDPAU[/COLOR] Triukšmo sumažinimas"
 
 msgctxt "#16313"
-msgid "[COLOR=red]VDPAU[/COLOR]Sharpness"
+msgid "VDPAU Sharpness"
 msgstr "[COLOR=red]VDPAU[/COLOR] Ryškumas"
 
 msgctxt "#16314"
@@ -5672,18 +5672,18 @@ msgstr "Atvirkštinis Telecine"
 
 msgctxt "#16315"
 msgid "Lanczos3 optimized"
-msgstr "Lanczos3 optimizuotas[COLOR=blue]i[/COLOR]"
+msgstr "Lanczos3 optimizuotas[COLOR=blue](-a,i)[/COLOR]"
 
 msgctxt "#16316"
 msgid "Auto"
 msgstr "Auto"
 
 msgctxt "#16317"
-msgid "Temporal [COLOR=red]Half[/COLOR]"
+msgid "Temporal Half"
 msgstr "Laikinas [COLOR=red]Half[/COLOR]"
 
 msgctxt "#16318"
-msgid "Temporal/Spatial [COLOR=red]Half[/COLOR]"
+msgid "Temporal/Spatial Half"
 msgstr "Laikinas/Erdvinis [COLOR=red]Half[/COLOR]"
 
 msgctxt "#16319"
@@ -5704,7 +5704,7 @@ msgstr "Spline36"
 
 msgctxt "#16323"
 msgid "Spline36 optimized"
-msgstr "Spline36 optimizuotas[COLOR=blue]i[/COLOR]"
+msgstr "Spline36 optimizuotas[COLOR=blue](-a,i)[/COLOR]"
 
 msgctxt "#16324"
 msgid "Software Blend"
@@ -5816,27 +5816,27 @@ msgstr "Duomenys"
 
 msgctxt "#20038"
 msgid "Lock music window"
-msgstr "Blokuoti [COLOR=blue]Muzika[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Muzika[/COLOR]"
 
 msgctxt "#20039"
 msgid "Lock videos window"
-msgstr "Blokuoti [COLOR=blue]Video[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Video[/COLOR]"
 
 msgctxt "#20040"
 msgid "Lock pictures window"
-msgstr "Blokuoti [COLOR=blue]Foto[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Foto[/COLOR]"
 
 msgctxt "#20041"
 msgid "Lock programs & scripts windows"
-msgstr "Blokuoti [COLOR=blue]Programos[/COLOR] ir [COLOR=blue]Skriptai[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Programos[/COLOR] ir [COLOR=red]Skriptai[/COLOR]"
 
 msgctxt "#20042"
 msgid "Lock file manager"
-msgstr "Blokuoti [COLOR=blue]Failų tvarkyklė[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Failų tvarkyklė[/COLOR]"
 
 msgctxt "#20043"
 msgid "Lock settings"
-msgstr "Blokuoti [COLOR=blue]Nustatymai[/COLOR]"
+msgstr "Blokuoti [COLOR=red]Nustatymai[/COLOR]"
 
 msgctxt "#20044"
 msgid "Start fresh"
@@ -5844,11 +5844,11 @@ msgstr "Švari paleistis"
 
 msgctxt "#20045"
 msgid "Enter master mode"
-msgstr "Įjungti režimą [COLOR=blue]Visiška prieiga[/COLOR]"
+msgstr "Įjungti režimą [COLOR=red]Visiška prieiga[/COLOR]"
 
 msgctxt "#20046"
 msgid "Leave master mode"
-msgstr "Išjungti režimą [COLOR=blue]Visiška prieiga[/COLOR]"
+msgstr "Išjungti režimą [COLOR=red]Visiška prieiga[/COLOR]"
 
 msgctxt "#20047"
 msgid "Create profile '%s'?"
@@ -5856,7 +5856,7 @@ msgstr "Sukurti profilį  '%s'?"
 
 msgctxt "#20048"
 msgid "Start with fresh settings"
-msgstr "Pradėti su [COLOR=blue]Švarūs parametrai[/COLOR]"
+msgstr "Pradėti su [COLOR=red]Švarūs parametrai[/COLOR]"
 
 msgctxt "#20049"
 msgid "Best available"
@@ -5876,11 +5876,11 @@ msgstr "Dėmesio"
 
 msgctxt "#20053"
 msgid "Left master mode"
-msgstr "Palikti režimą [COLOR=blue]Visiška prieiga[/COLOR]"
+msgstr "Palikti režimą [COLOR=red]Visiška prieiga[/COLOR]"
 
 msgctxt "#20054"
 msgid "Entered master mode"
-msgstr "Įjungtas režimas [COLOR=blue]Visiška prieiga[/COLOR]"
+msgstr "Įjungtas režimas [COLOR=red]Visiška prieiga[/COLOR]"
 
 msgctxt "#20055"
 msgid "Allmusic.com thumb"
@@ -5911,8 +5911,8 @@ msgid "Shares with default"
 msgstr "Standartiniai ištekliai"
 
 msgctxt "#20063"
-msgid "Shares with default [COLOR=blue]read only[/COLOR]"
-msgstr "Standartiniai ištekliai [COLOR=blue]tik skaitymas[/COLOR]"
+msgid "Shares with default read only"
+msgstr "Standartiniai ištekliai tik skaitymas"
 
 msgctxt "#20064"
 msgid "Copy default"
@@ -5988,7 +5988,7 @@ msgstr "Įjungti sparčiuosius mygtukus"
 
 msgctxt "#20082"
 msgid "Show programs in main menu"
-msgstr "Rodyti elementą [COLOR=blue]Programos[/COLOR] pagrindiniame meniu"
+msgstr "Rodyti elementą [COLOR=red]Programos[/COLOR] pagrindiniame meniu"
 
 msgctxt "#20083"
 msgid "Show music info"
@@ -6064,7 +6064,7 @@ msgstr "Saugos kodas ir jo nustatymas"
 
 msgctxt "#20101"
 msgid "Entering master lock code always enables master mode"
-msgstr "Įvestas kodas visada persijungia į režimą [COLOR=blue]Visiška prieiga[/COLOR]"
+msgstr "Įvestas kodas visada persijungia į režimą [COLOR=red]Visiška prieiga[/COLOR]"
 
 msgctxt "#20102"
 msgid "or copy from default?"
@@ -6087,8 +6087,8 @@ msgid "Old media sources found."
 msgstr "Rasta senų media išteklių."
 
 msgctxt "#20107"
-msgid "Separate [COLOR=blue]locked[/COLOR]"
-msgstr "Atskirai [COLOR=blue]uždaryta[/COLOR]"
+msgid "Separate locked"
+msgstr "Atskirai uždaryta"
 
 msgctxt "#20108"
 msgid "Root"
@@ -6175,8 +6175,8 @@ msgid "Weave"
 msgstr "Sumaišyti [COLOR=red]Weave[/COLOR]"
 
 msgctxt "#20130"
-msgid "Weave [COLOR=blue]inverted[/COLOR]"
-msgstr "Sumaišyti [COLOR=red]Weave[/COLOR][COLOR=blue]atvirkščiai[/COLOR]"
+msgid "Weave inverted"
+msgstr "Sumaišyti [COLOR=red]Weave[/COLOR] atvirkščiai"
 
 msgctxt "#20131"
 msgid "Blend"
@@ -6235,8 +6235,8 @@ msgid "Shutdown timer"
 msgstr "Išjungimo laikmatis"
 
 msgctxt "#20145"
-msgid "Shutdown interval [COLOR=blue]in minutes[/COLOR]"
-msgstr "Išjungimo intervalas [COLOR=blue]min.[/COLOR]"
+msgid "Shutdown interval in minutes"
+msgstr "Išjungimo intervalas minutės"
 
 msgctxt "#20146"
 msgid "Started, shutdown in %im"
@@ -6339,7 +6339,7 @@ msgid "Line"
 msgstr "Linija"
 
 msgctxt "#20171"
-msgid "Windows network [COLOR=red]SMB[/COLOR]"
+msgid "Windows network SMB"
 msgstr "Windows tinklas [COLOR=red]SMB[/COLOR]"
 
 msgctxt "#20172"
@@ -6351,7 +6351,7 @@ msgid "FTP server"
 msgstr "FTP serveris"
 
 msgctxt "#20174"
-msgid "iTunes music share [COLOR=red]DAAP[/COLOR]"
+msgid "iTunes music share DAAP"
 msgstr "iTunes dalytis muzika [COLOR=red]DAAP[/COLOR]"
 
 msgctxt "#20175"
@@ -6396,7 +6396,7 @@ msgstr "Pasukti nuotraukas naudojantis [COLOR=red]EXIF[/COLOR] informacija"
 
 msgctxt "#20185"
 msgid "Use poster view styles for TV shows"
-msgstr "Naudoti afišos vaizdą TV [COLOR=red]šou, serialams[/COLOR]"
+msgstr "Naudoti afišos vaizdą [COLOR=red]TV šou, serialams[/COLOR]"
 
 msgctxt "#20186"
 msgid "Please wait"
@@ -6451,24 +6451,24 @@ msgid "Downloading artist info failed"
 msgstr "Informacijos apie atlikėjus atsisiuntimas nepavyko"
 
 msgctxt "#20250"
-msgid "Party on! [COLOR=blue]videos[/COLOR]"
+msgid "Party on! (videos)"
 msgstr "[COLOR=blue]Vakarėlis[/COLOR] prasidėjo![COLOR=blue]Video[/COLOR]"
 
 msgctxt "#20251"
-msgid "Mixing drinks [COLOR=blue]videos[/COLOR]"
+msgid "Mixing drinks (videos)"
 msgstr "[COLOR=blue]Gėrimų[/COLOR] maišymas [COLOR=blue]Video[/COLOR]"
 
 msgctxt "#20252"
-msgid "Filling glasses [COLOR=blue]videos[/COLOR]"
+msgid "Filling glasses (videos)"
 msgstr "[COLOR=blue]Bokalų[/COLOR] pildymas [COLOR=blue]Video[/COLOR]"
 
 msgctxt "#20253"
-msgid "WebDAV server [COLOR=blue]HTTP[/COLOR]"
-msgstr "WebDAV serveris [COLOR=blue]HTTP[/COLOR]"
+msgid "WebDAV server HTTP"
+msgstr "[COLOR=red]WebDAV[/COLOR] serveris [COLOR=red]HTTP[/COLOR]"
 
 msgctxt "#20254"
-msgid "WebDAV server [COLOR=blue]HTTPS[/COLOR]"
-msgstr "WebDAV serveris [COLOR=blue]HTTPS[/COLOR]"
+msgid "WebDAV server HTTPS"
+msgstr "[COLOR=red]WebDAV[/COLOR] serveris [COLOR=red]HTTPS[/COLOR]"
 
 msgctxt "#20255"
 msgid "First logon, edit your profile"
@@ -6487,23 +6487,23 @@ msgid "MythTV client"
 msgstr "Klientas [COLOR=red]MythTV[/COLOR]"
 
 msgctxt "#20259"
-msgid "Network Filesystem [COLOR=red]NFS[/COLOR]"
+msgid "Network Filesystem NFS"
 msgstr "Tinklo failų sistema [COLOR=red]NFS[/COLOR]"
 
 msgctxt "#20260"
-msgid "Secure Shell [COLOR=red]SSH/SFTP[/COLOR]"
+msgid "Secure Shell SSH/SFTP"
 msgstr "Fono apsauga [COLOR=red]SSH/SFTP[/COLOR]"
 
 msgctxt "#20261"
-msgid "Apple Filing Protocol [COLOR=red]AFP[/COLOR]"
+msgid "Apple Filing Protocol AFP"
 msgstr "Apple Bylų Protokolas [COLOR=red]AFP[/COLOR]"
 
 msgctxt "#20300"
-msgid "Web server directory [COLOR=red]HTTP[/COLOR]"
+msgid "Web server directory HTTP"
 msgstr "Interneto serverio katalogas [COLOR=red]HTTP[/COLOR]"
 
 msgctxt "#20301"
-msgid "Web server directory [COLOR=red]HTTPS[/COLOR]"
+msgid "Web server directory HTTPS"
 msgstr "Interneto serverio katalogas [COLOR=red]HTTPS[/COLOR]"
 
 msgctxt "#20302"
@@ -6535,8 +6535,8 @@ msgid "Dim LCD on playback"
 msgstr "Pritemdyti LCD ekraną grojant"
 
 msgctxt "#20311"
-msgid "Unknown or onboard [COLOR=blue]protected[/COLOR]"
-msgstr "Nežinomas arba integruotas [COLOR=blue]apsaugotas[/COLOR]"
+msgid "Unknown or onboard protected"
+msgstr "Nežinomas arba integruotas apsaugotas"
 
 msgctxt "#20312"
 msgid "Dim LCD on paused"
@@ -6620,7 +6620,7 @@ msgstr "Ar norite panaikinti"
 
 msgctxt "#20341"
 msgid "this path from the XBMC library?"
-msgstr "visus objektus iš bibliotekos?"
+msgstr "visus objektus iš XBMC bibliotekos?"
 
 msgctxt "#20342"
 msgid "Movies"
@@ -6628,7 +6628,7 @@ msgstr "Filmai"
 
 msgctxt "#20343"
 msgid "TV shows"
-msgstr "TV [COLOR=blue]šou, serialai[/COLOR]"
+msgstr "[COLOR=blue]TV šou, serialai[/COLOR]"
 
 msgctxt "#20344"
 msgid "This directory contains"
@@ -6660,7 +6660,7 @@ msgstr "balsavo"
 
 msgctxt "#20351"
 msgid "TV show information"
-msgstr "Informacija apie TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Informacija apie [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20352"
 msgid "Episode information"
@@ -6668,7 +6668,7 @@ msgstr "Informacija apie epizodą"
 
 msgctxt "#20353"
 msgid "Loading TV show details"
-msgstr "Įkeliama informacija apie TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Įkeliama informacija apie [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20354"
 msgid "Fetching episode guide"
@@ -6680,11 +6680,11 @@ msgstr "Informacijos įkėlimas apie epizodus į katalogus"
 
 msgctxt "#20356"
 msgid "Select TV show:"
-msgstr "Pasirinkite TV [COLOR=blue]šou, serialą[/COLOR]:"
+msgstr "Pasirinkite [COLOR=blue]TV šou, serialą[/COLOR]:"
 
 msgctxt "#20357"
 msgid "Enter the TV show name"
-msgstr "Įveskite TV [COLOR=blue]šou, serialo[/COLOR] pavadinimą"
+msgstr "Įveskite [COLOR=blue]TV šou, serialo[/COLOR] pavadinimą"
 
 msgctxt "#20358"
 msgid "Season %i"
@@ -6708,11 +6708,11 @@ msgstr "Pašalinti iš bibliotekos epizodą"
 
 msgctxt "#20363"
 msgid "Remove TV show from library"
-msgstr "Pašalinti iš bibliotekos TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Pašalinti iš bibliotekos [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20364"
 msgid "TV show"
-msgstr "TV [COLOR=blue]šou, serialas[/COLOR]"
+msgstr "[COLOR=blue]TV šou, serialas[/COLOR]"
 
 msgctxt "#20365"
 msgid "Episode plot"
@@ -6736,7 +6736,7 @@ msgstr "Rodyti siužetą neperžiurėtiems elementams"
 
 msgctxt "#20370"
 msgid "* Hidden to prevent spoilers *"
-msgstr "* Paslėpti, užkirsti kelią [COLOR=blue]Spoileriams[/COLOR] *"
+msgstr "* Paslėpti, užkirsti kelią [COLOR=red]Spoileriams[/COLOR] *"
 
 msgctxt "#20371"
 msgid "Set season thumb"
@@ -6764,7 +6764,7 @@ msgstr "Originalus pavadinimas"
 
 msgctxt "#20377"
 msgid "Refresh TV show information"
-msgstr "Atnaujinti informaciją apie TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Atnaujinti informaciją apie [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20378"
 msgid "Refresh info for all episodes?"
@@ -6772,7 +6772,7 @@ msgstr "Atnaujinti informaciją apie visus epizodus?"
 
 msgctxt "#20379"
 msgid "Selected folder contains a single TV show"
-msgstr "Nurodytas katalogas turi atskirą TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Nurodytas katalogas turi atskirą [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
@@ -6792,11 +6792,11 @@ msgstr "Nurodytas katalogas turi atskirą video"
 
 msgctxt "#20384"
 msgid "Link to TV show"
-msgstr "Susieti su TV [COLOR=blue]šou, serialu[/COLOR]"
+msgstr "Susieti su [COLOR=blue]TV šou, serialu[/COLOR]"
 
 msgctxt "#20385"
 msgid "Remove link to TV show"
-msgstr "Atsieti nuo TV [COLOR=blue]šou, serialo[/COLOR]"
+msgstr "Atsieti nuo [COLOR=blue]TV šou, serialo[/COLOR]"
 
 msgctxt "#20386"
 msgid "Recently added movies"
@@ -6888,7 +6888,7 @@ msgstr "Atsiųsti informaciją apie muzikinį vaizdo klipą"
 
 msgctxt "#20409"
 msgid "Downloading TV show information"
-msgstr "Atsiųsti informaciją apie TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Atsiųsti informaciją apie [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20410"
 msgid "Trailer"
@@ -6900,7 +6900,7 @@ msgstr "Sujungti"
 
 msgctxt "#20412"
 msgid "Flatten TV shows"
-msgstr "Sujungti TV [COLOR=blue]šou, serialą[/COLOR]"
+msgstr "Sujungti [COLOR=blue]TV šou, serialą[/COLOR]"
 
 msgctxt "#20413"
 msgid "Get fanart"
@@ -6920,7 +6920,7 @@ msgstr "Pirma eteryje"
 
 msgctxt "#20417"
 msgid "Writer"
-msgstr "Autorius[COLOR=blue]rašytojas[/COLOR]"
+msgstr "Autorius rašytojas"
 
 msgctxt "#20419"
 msgid "Replace file names with library titles"
@@ -7112,7 +7112,7 @@ msgstr "Prijungimas prie: %s"
 
 msgctxt "#21337"
 msgid "TuxBox device"
-msgstr "TuxBox prietaisas"
+msgstr "[COLOR=red]TuxBox[/COLOR] prietaisas"
 
 msgctxt "#21359"
 msgid "Add media share..."
@@ -7156,7 +7156,7 @@ msgstr "Miniatiūros"
 
 msgctxt "#21372"
 msgid "Forced DVD player region"
-msgstr "Nustatyti regioną [COLOR=red]DVD[/COLOR] grotuve"
+msgstr "Nustatyti regioną CD/DVD/HD/BD grotuve"
 
 msgctxt "#21373"
 msgid "Video output"
@@ -7196,7 +7196,7 @@ msgstr "Įveskite naują grojaraščio pavadinimą"
 
 msgctxt "#21382"
 msgid "Show \"Add source\" buttons in file lists"
-msgstr "Rodyti \"[COLOR=red]Pridėti kodai[/COLOR]\" failų sąraše"
+msgstr "Rodyti \"Pridėti kodai\" failų sąraše"
 
 msgctxt "#21383"
 msgid "Enable scrollbars"
@@ -7256,7 +7256,7 @@ msgstr "Skyrius"
 
 msgctxt "#21397"
 msgid "High quality pixel shader v2"
-msgstr "Aukštos kokybės Pixel Shader v2"
+msgstr "Aukštos kokybės [COLOR=red]Pixel Shader v2[/COLOR]"
 
 msgctxt "#21398"
 msgid "Enable playlist at startup"
@@ -7316,7 +7316,7 @@ msgstr "pradžioj"
 
 msgctxt "#21412"
 msgid "Scrapers"
-msgstr "[COLOR=red]Scrapers[/COLOR]"
+msgstr "Scrapers"
 
 msgctxt "#21413"
 msgid "Default movie scraper"
@@ -7704,7 +7704,7 @@ msgstr "Miestas"
 
 msgctxt "#21874"
 msgid "State"
-msgstr "Valstybė [COLOR=blue]JAV[/COLOR]"
+msgstr "Valstybė JAV"
 
 msgctxt "#21875"
 msgid "Country"
@@ -7712,7 +7712,7 @@ msgstr "Šalis"
 
 msgctxt "#21876"
 msgid "Original Tx Reference"
-msgstr "Originalus Tx Reference"
+msgstr "Originalus [COLOR=red]Tx Reference[/COLOR]"
 
 msgctxt "#21877"
 msgid "Date created"
@@ -7736,7 +7736,7 @@ msgstr "Vykdyti XBMC kontrolę per UPnP"
 
 msgctxt "#21882"
 msgid "Attempt to skip introduction before DVD menu"
-msgstr "Bandyti praleisti [COLOR=red]DVD[/COLOR] įrašą"
+msgstr "Bandyti praleisti DVD įrašą"
 
 msgctxt "#21883"
 msgid "Saved music"
@@ -8111,8 +8111,8 @@ msgid "Weather"
 msgstr "Orai"
 
 msgctxt "#24028"
-msgid "Weather.com [COLOR=blue]standard[/COLOR]"
-msgstr "Weather.com [COLOR=blue]standartinis[/COLOR]"
+msgid "Weather.com standard"
+msgstr "Weather.com standartinis"
 
 msgctxt "#24030"
 msgid "This Add-on can not be configured"
@@ -8155,8 +8155,8 @@ msgid "Disabled Add-ons"
 msgstr "Išjungti priedus"
 
 msgctxt "#24040"
-msgid "[COLOR=blue]Clear the current setting[/COLOR]"
-msgstr "[COLOR=blue]Išvalyti dabartinius nustatymus[/COLOR]"
+msgid "Clear the current setting"
+msgstr "Išvalyti dabartinius nustatymus"
 
 msgctxt "#24041"
 msgid "Install from zip file"
@@ -8179,8 +8179,8 @@ msgid "Add-on does not have the correct structure"
 msgstr "Priedai neatitinka teisingos struktūros"
 
 msgctxt "#24046"
-msgid "%s is used by the following installed add-on[COLOR=blue]s[/COLOR]"
-msgstr "%s įdiegti taip kaip yra naudojami priedai[COLOR=blue]us[/COLOR]"
+msgid "%s is used by the following installed add-on's'"
+msgstr "%s įdiegti taip kaip yra naudojami priedai[COLOR=blue](-as)[/COLOR]"
 
 msgctxt "#24047"
 msgid "This add-on cannot be uninstalled"
@@ -8295,12 +8295,12 @@ msgid "Lock Add-on manager"
 msgstr "Blokuoti priedų tvarkyklę"
 
 msgctxt "#24094"
-msgid "[COLOR=blue]current[/COLOR]"
-msgstr "[COLOR=blue]dabar[/COLOR]"
+msgid "current"
+msgstr "dabar]"
 
 msgctxt "#24095"
-msgid "[COLOR=blue]blacklisted[/COLOR]"
-msgstr "[COLOR=blue]juod.sarašas[/COLOR]"
+msgid "blacklisted"
+msgstr "juod.sarašas"
 
 msgctxt "#24096"
 msgid "Add-on has been marked as broken in repository."
@@ -8420,7 +8420,7 @@ msgstr "Ilga"
 
 msgctxt "#33014"
 msgid "Use DVD player instead of regular player"
-msgstr "Naudokite [COLOR=red]DVD[/COLOR] grotuvą vietoj..."
+msgstr "Naudokite DVD grotuvą vietoj..."
 
 msgctxt "#33015"
 msgid "Ask for download before playing video"
@@ -8464,11 +8464,11 @@ msgstr "Jaučiasi"
 
 msgctxt "#33025"
 msgid "Observed"
-msgstr "Stebima[COLOR=blue]pastebėta,faktas[/COLOR]"
+msgstr "Stebima[COLOR=blue](-as,pastebėta(-as),faktas)[/COLOR]"
 
 msgctxt "#33026"
 msgid "Departure from normal"
-msgstr "Nukrypimai nuo normalaus[COLOR=blue]normos,įprasto[/COLOR]"
+msgstr "Nukrypimai nuo normalaus[COLOR=blue](normos,įprasto)[/COLOR]"
 
 msgctxt "#33027"
 msgid "Sunrise"
@@ -8901,7 +8901,7 @@ msgstr "Perjungti į pultelio komandas"
 
 msgctxt "#36004"
 msgid "Press \"user\" button command"
-msgstr "Paspauskite mygtuką \"Vartotojas\""
+msgstr "Paspauskite \"Vartotojas\" mygtuką""
 
 msgctxt "#36005"
 msgid "Enable switch side commands"
@@ -8964,12 +8964,12 @@ msgid "Make XBMC the active source when starting"
 msgstr "Padaryti XBMC aktyvų šaltinį paleidžiant"
 
 msgctxt "#36021"
-msgid "Physical address [COLOR=blue]overrules HDMI port[/COLOR]"
-msgstr "Fizinio adreso tasyklė [COLOR=blue]HDMI prievadas[/COLOR]"
+msgid "Physical address overrules HDMI port"
+msgstr "Fizinio adreso tasyklė HDMI prievadas"
 
 msgctxt "#36022"
-msgid "COM port [COLOR=blue]leave empty unless needed[/COLOR]"
-msgstr "COM prievadas [COLOR=blue]palikti tuščią, išskyrus atvejus kai būtina[/COLOR]"
+msgid "COM port leave (empty unless needed)"
+msgstr "COM prievadas [COLOR=red](palikti tuščią, išskyrus atvejus kai būtina)[/COLOR]"
 
 msgctxt "#36023"
 msgid "Configuration updated"
@@ -8981,7 +8981,7 @@ msgstr "Nepavyko nustatyti naujos konfigūracijos. Prašome patikrinti savo para
 
 msgctxt "#36025"
 msgid "Send 'inactive source' command when stopping XBMC"
-msgstr "Siųsti [COLOR=blue]neaktyvus šaltinis[/COLOR] komandą XBMC stabdymui"
+msgstr "Siųsti [COLOR=red]neaktyvus šaltinis[/COLOR] komandą XBMC stabdymui"
 
 msgctxt "#36026"
 msgid "Put devices in standby mode when putting the PC in standby"
@@ -8989,11 +8989,11 @@ msgstr "Įdėkite įrenginius, laukimo režime, kad paleisti kompiuterį budėji
 
 msgctxt "#36027"
 msgid "This device needs servicing"
-msgstr "Šis prietaisas turi techninę priežiūrą[COLOR=blue]aptarnavimą[/COLOR]"
+msgstr "Šis prietaisas turi techninę priežiūrą[COLOR=blue](aptarnavimą)[/COLOR]"
 
 msgctxt "#36028"
 msgid "Ignore"
-msgstr "Ignoruoti[COLOR=blue]nepaisyti,atmesti[/COLOR]"
+msgstr "Ignoruoti[COLOR=blue](nepaisyti,atmesti)[/COLOR]"
 
 msgctxt "#36029"
 msgid "When the TV is switched off"
@@ -9001,7 +9001,7 @@ msgstr "Kai televizorius yra išjungtas"
 
 msgctxt "#36030"
 msgid "Connection lost"
-msgstr "Ryšys[COLOR=blue]jungtis[/COLOR] nutrūko"
+msgstr "Jungtis[COLOR=blue](ryšys,susijungimas)[/COLOR] nutrūko"
 
 msgctxt "#36031"
 msgid "This user does not have permissions to open the CEC adapter"
