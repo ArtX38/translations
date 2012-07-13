@@ -8863,6 +8863,14 @@ msgctxt "#35009"
 msgid "Do not use the custom keymap for this device"
 msgstr "Negalima naudoti nestandartinių klavišų lentelės"
 
+empty strings from id 35010 to 35099
+
+msgctxt "#35100"
+msgid "Enable joystick and gamepad support"
+msgstr "Įjungti Joystick/[COLOR=red]vairasvirtę[/COLOR] ir Gamepad/[COLOR=red]valdymo irenginys[/COLOR] palaikymą"
+
+#empty strings from id 35101 to 35499
+
 msgctxt "#35500"
 msgid "Location"
 msgstr "Padėtis"
