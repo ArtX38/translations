@@ -2,6 +2,7 @@
 # Addon Name: Confluence
 # Addon id: skin.confluence
 # Addon Provider: Jezz_X, Team Kodi
+# Artūras Griškonis <ArtX38@gmail.com>, 2012 - 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: KODI Main\n"
@@ -18,7 +19,7 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Change your"
-msgstr "Kodi"
+msgstr "Pakeiskite savo"
 
 msgctxt "#31001"
 msgid "GAMES"
@@ -50,7 +51,7 @@ msgstr "Vaizdo apdorojimo informacija"
 
 msgctxt "#31008"
 msgid "Full screen"
-msgstr "Visas ekranas"
+msgstr "Per visą ekraną"
 
 msgctxt "#31009"
 msgid "Total duration"
@@ -102,7 +103,7 @@ msgstr "Vieta"
 
 msgctxt "#31028"
 msgid "Poster wrap"
-msgstr "Plakatų karusėlė"
+msgstr "Plakatų apsuptis"
 
 msgctxt "#31029"
 msgid "Fanart"
@@ -146,11 +147,11 @@ msgstr "PRASUKTI ATGAL"
 
 msgctxt "#31046"
 msgid "SEEKING"
-msgstr "PAIEŠKA"
+msgstr "IEŠKAU"
 
 msgctxt "#31048"
 msgid "Visualisation presets"
-msgstr "Vizualizacijų išankstinės parinktys"
+msgstr "Vizualizavimo išankstiniai nustatymai"
 
 msgctxt "#31049"
 msgid "End time"
@@ -158,11 +159,11 @@ msgstr "Pabaigos laikas"
 
 msgctxt "#31050"
 msgid "Sort: Ascending"
-msgstr "Rūšiuoti: didėjančiai"
+msgstr "Rūšiuoti: Didėjant"
 
 msgctxt "#31051"
 msgid "Sort: Descending"
-msgstr "Rūšiuoti: mažėjančiai"
+msgstr "Rūšiuoti: Mažėjant"
 
 msgctxt "#31055"
 msgid "Open playlist"
@@ -198,11 +199,11 @@ msgstr "Fonas"
 
 msgctxt "#31103"
 msgid "Show \"Paused\" in picture slideshow"
-msgstr "Rodyti \"Pauzė\" nuotraukų skaidrių peržiūroje"
+msgstr "Rodyti \"Pauzė\" paveikslėlių demonstraciją"
 
 msgctxt "#31104"
 msgid "Play trailers in a window [COLOR=grey3](Video information dialogue only)[/COLOR]"
-msgstr "Atkurti anonsus lange [COLOR=grey3](Tik vaizdo informacijos lange)[/COLOR]"
+msgstr "Rodyti anonsus lange [COLOR=grey3](Tik vaizdo informacijos lange)[/COLOR]"
 
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -218,7 +219,7 @@ msgstr "Slėpti pagrindinio meniu mygtukus"
 
 msgctxt "#31109"
 msgid "Enable custom background"
-msgstr "Įjungti savą foną"
+msgstr "Įgalinti pasirinktinį foną"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -254,11 +255,11 @@ msgstr "Slėpti EPG, jei kanalo lange yra RDS"
 
 msgctxt "#31124"
 msgid "Show background \"Now playing\" video"
-msgstr "Rodyti \"Dabar atkuriamą\" vaizdo įrašą fone"
+msgstr "Rodyti \"Dabar atkuriama\" vaizdo įrašą fone"
 
 msgctxt "#31125"
 msgid "Show background \"Now playing\" visualisation"
-msgstr "Rodyti \"Dabar atkuriamos\" muzikos vizualizaciją fone"
+msgstr "Rodyti \"Dabar atkuriama\" muzikos vizualizaciją fone"
 
 msgctxt "#31128"
 msgid "Lyrics"
@@ -274,15 +275,15 @@ msgstr "Dainos žodžių priedas"
 
 msgctxt "#31134"
 msgid "Home page \"Videos\" submenu"
-msgstr "Pradinio puslapio \"Vaizdo įrašų\" submeniu"
+msgstr "Pradinio puslapio \"Video\" submeniu"
 
 msgctxt "#31135"
 msgid "Home page \"Music\" submenu"
-msgstr "Pradinio puslapio \"Muzikos\" submeniu"
+msgstr "Pradinio puslapio \"Muzika\" submeniu"
 
 msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
-msgstr "Pradinio puslapio \"Nuotraukų\" submeniu"
+msgstr "Pradinio puslapio \"Nuotraukos\" submeniu"
 
 msgctxt "#31140"
 msgid "Music OSD"
@@ -410,7 +411,7 @@ msgstr "Žiūrėti 2D režimu"
 
 msgctxt "#31361"
 msgid "Change mode"
-msgstr "Pakeisti režimą"
+msgstr "Keisti režimą"
 
 msgctxt "#31362"
 msgid "Enabled"
@@ -506,7 +507,7 @@ msgstr "Pašalinti grupę"
 
 msgctxt "#31506"
 msgid "Available[CR]Groups"
-msgstr "Galimos[CR]grupės"
+msgstr "Galimos[CR]Grupės"
 
 msgctxt "#31509"
 msgid "Channel group"
@@ -526,7 +527,7 @@ msgstr "36 valandų prognozė"
 
 msgctxt "#31902"
 msgid "Hourly forecast"
-msgstr "Valandinė prognozė"
+msgstr "Valandos prognozė"
 
 msgctxt "#31903"
 msgid "Weekend forecast"
@@ -558,11 +559,11 @@ msgstr "NUOTRAUKOS"
 
 msgctxt "#31952"
 msgid "TV"
-msgstr "TELEVIZIJA"
+msgstr "TT"
 
 msgctxt "#31953"
 msgid "VIDEOS"
-msgstr "VAIZDO ĮRAŠAI"
+msgstr "VIDEO"
 
 msgctxt "#31954"
 msgid "MOVIES"
@@ -582,7 +583,7 @@ msgstr "PROGRAMOS"
 
 msgctxt "#31958"
 msgid "PLAY DISC"
-msgstr "ATKURTI DISKĄ"
+msgstr "LEISTI DISKĄ"
 
 msgctxt "#31959"
 msgid "SYSTEM"
